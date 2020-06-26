@@ -1,2 +1,2 @@
-![Image of Yaktocat](source\img\logo-launchbase.png)
+[LaunchBase Bootcamp](source\img\logo-launchbase.png)
 # foodfy
