@@ -6,6 +6,6 @@
   Desafio: Construindo Foodfy
 </h3>
 
-:rocket: Sobre o desafio
+## :rocket: Sobre o desafio
 
 Nesse desafio vou construir um site completo para uma empresa de receitas chamada Foodfy.
