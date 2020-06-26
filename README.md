@@ -1,3 +1,5 @@
-<center>![](source/img/logo-launchbase.png)</center>
+<p align="center">
+  <img src="source/img/logo-launchbase.png">
+</p>
 
 # foodfy
