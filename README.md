@@ -1,2 +1,2 @@
-![logo-launchbase](source\img\logo-launchbase.png)
+![logo-launchbase](/source/img/logo-launchbase.png)
 # foodfy
