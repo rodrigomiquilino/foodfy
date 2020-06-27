@@ -16,4 +16,7 @@ for (let card of cards) {
 
 document.querySelector(".modal__close").addEventListener("click", function () {
     modalOverlay.classList.remove("active")
+    modalOverlay.querySelector("img").src = ""
+    modalOverlay.querySelector("h3").innerText = ""
+    modalOverlay.querySelector("p").innerText = ""
 })
