@@ -10,23 +10,22 @@
 
 Nesse desafio vou construir um site completo para uma empresa de receitas chamada Foodfy.
 
-<hr>
 
 # Front-end
 
-[x] Organizar às Paginas com HTML.
-[x] Padronizando Layout com CSS.
-[x] Adicionando Modal com HTML/CSS/JS.
-[x] Adicionando Responsividade com Media Queries
+- [x] Organizar às Paginas com HTML.
+- [x] Padronizando Layout com CSS.
+- [x] Adicionando Modal com HTML/CSS/JS.
+- [x] Adicionando Responsividade com Media Queries
 
-<hr>
+# 
 
 <h3 align="center">
   Foodfy
 </h3>
 
-<hr>
+# 
 
 <p align="center">
-  <img width="600" src="source/gif/tumbnail.gif">
+  <img width="100%" src="source/gif/tumbnail.gif">
 </p>
